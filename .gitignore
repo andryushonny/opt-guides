@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.python-version
+
+# Virtualenv
+.venv/
+venv/
+.env
+
+# Build
+build/
+dist/
+*.egg
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Outputs
+plots/
+*.pkl
+
+# Notebooks (we use plain .py instead — but just in case)
+.ipynb_checkpoints/
