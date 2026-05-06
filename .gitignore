@@ -24,5 +24,7 @@ dist/
 plots/
 *.pkl
 
+.claude/
+
 # Notebooks (we use plain .py instead — but just in case)
 .ipynb_checkpoints/
